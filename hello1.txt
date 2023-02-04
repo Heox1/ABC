@@ -1,2 +1,4 @@
 WE are learning GIT
 And this is great!
+
+I am in master branch NOW
