@@ -1,0 +1,7 @@
+all: createtext 
+	open newtext.txt
+
+createtext:
+	touch newtext.txt
+
+
